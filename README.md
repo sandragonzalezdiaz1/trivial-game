@@ -4,6 +4,11 @@ A web-based quiz application built with **React + Vite** that allows users to an
 
 ---
 
+## 🌐 Live Demo
+[Demo](https://sandragonzalezdiaz1.github.io/trivial-game/)
+
+---
+
 ## ✨ Features
 
 * Randomized questions using the Fisher–Yates shuffle algorithm
@@ -112,7 +117,6 @@ http://localhost:5173
 
 ## 👩‍💻 Author
 
-Sandra González Díaz
-[GitHub](https://github.com/sandragonzalezdiaz1)
+Sandra González Díaz - [GitHub](https://github.com/sandragonzalezdiaz1)
 
 
